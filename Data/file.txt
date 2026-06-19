@@ -1,0 +1,240 @@
+Q: What is the capital of India?
+A: New Delhi
+Q: Who is known as the Father of the Nation in India?
+A: Mahatma Gandhi
+Q: What is the national animal of India?
+A: Bengal Tiger
+Q: What is the national bird of India?
+A: Peacock
+Q: What is the national flower of India?
+A: Lotus
+Q: Which is the longest river in the world?
+A: Nile River
+Q: Which is the largest ocean in the world?
+A: Pacific Ocean
+Q: How many continents are there?
+A: Seven
+Q: What is the capital of France?
+A: Paris
+Q: Who wrote the Indian National Anthem?
+A: Rabindranath Tagore
+Q: Which planet is known as the Red Planet?
+A: Mars
+Q: How many states are there in India (2026)?
+A: 28
+Q: Which gas do plants absorb?
+A: Carbon Dioxide
+Q: What is H2O commonly known as?
+A: Water
+Q: Which organ purifies blood in human body?
+A: Kidney
+Q: Who was the first Prime Minister of India?
+A: Jawaharlal Nehru
+Q: Which is the smallest continent?
+A: Australia
+Q: Which is the tallest mountain in the world?
+A: Mount Everest
+Q: What is the currency of Japan?
+A: Yen
+Q: Who discovered gravity?
+A: Isaac Newton
+Q: Which is the fastest land animal?
+A: Cheetah
+Q: Which is the largest desert in the world?
+A: Sahara Desert
+Q: What is the capital of USA?
+A: Washington D.C.
+Q: Who invented the telephone?
+A: Alexander Graham Bell
+Q: Which is the hardest natural substance?
+A: Diamond
+Q: What is the national currency of India?
+A: Indian Rupee
+Q: Which organ is responsible for pumping blood?
+A: Heart
+Q: Which planet is known as Earth’s twin?
+A: Venus
+Q: How many bones are in human body?
+A: 206
+Q: Which is the largest country by area?
+A: Russia
+Q: What is the capital of China?
+A: Beijing
+Q: Who is the President of India (2026)?
+A: Droupadi Murmu
+Q: Which is the longest bone in human body?
+A: Femur
+Q: What is the speed of light?
+A: 300,000 km/s
+Q: Which organ helps in breathing?
+A: Lungs
+Q: What is the capital of Russia?
+A: Moscow
+Q: Which is the largest mammal?
+A: Blue Whale
+Q: Which country has the largest population?
+A: India
+Q: What is the study of plants called?
+A: Botany
+Q: What is the study of animals called?
+A: Zoology
+Q: Who invented the light bulb?
+A: Thomas Edison
+Q: Which is the national sport of India?
+A: Hockey
+Q: What is the capital of UK?
+A: London
+Q: Which planet is nearest to the Sun?
+A: Mercury
+Q: Which is the largest island in the world?
+A: Greenland
+Q: What is the boiling point of water?
+A: 100°C
+Q: Who wrote the Constitution of India?
+A: Dr. B.R. Ambedkar
+Q: Which metal is liquid at room temperature?
+A: Mercury
+Q: What is the national game of USA?
+A: Baseball
+Q: Which is the tallest animal?
+A: Giraffe
+Q: Which country is called the Land of Rising Sun?
+A: Japan
+Q: What is the capital of Germany?
+A: Berlin
+Q: Which vitamin is produced by sunlight?
+A: Vitamin D
+Q: Which is the largest planet in the solar system?
+A: Jupiter
+Q: Who is called Iron Man of India?
+A: Sardar Vallabhbhai Patel
+Q: Which is the deepest ocean trench?
+A: Mariana Trench
+Q: What is the study of earth called?
+A: Geology
+Q: Which country invented paper?
+A: China
+Q: What is the capital of Italy?
+A: Rome
+Q: Who was the first man to walk on the Moon?
+A: Neil Armstrong
+Q: Which is the fastest bird?
+A: Peregrine Falcon
+Q: What is the national tree of India?
+A: Banyan Tree
+Q: Which is the smallest ocean?
+A: Arctic Ocean
+Q: What is the capital of Australia?
+A: Canberra
+Q: Which gas is most abundant in Earth’s atmosphere?
+A: Nitrogen
+Q: What is the currency of USA?
+A: Dollar
+Q: Who discovered penicillin?
+A: Alexander Fleming
+Q: Which organ controls the body?
+A: Brain
+Q: What is the largest bone in human body?
+A: Femur
+Q: Which country is called the Land of Kangaroos?
+A: Australia
+Q: What is the capital of Spain?
+A: Madrid
+Q: Which planet has rings?
+A: Saturn
+Q: What is the national fruit of India?
+A: Mango
+Q: Who is known as Missile Man of India?
+A: Dr. A.P.J. Abdul Kalam
+Q: What is the capital of South Korea?
+A: Seoul
+Q: Which is the longest river in India?
+A: Ganga
+Q: What is the freezing point of water?
+A: 0°C
+Q: Which vitamin is good for eyesight?
+A: Vitamin A
+Q: Who invented computer?
+A: Charles Babbage
+Q: Which country has pyramids?
+A: Egypt
+Q: What is the capital of Brazil?
+A: Brasília
+Q: Which is the largest delta in the world?
+A: Sundarbans
+Q: What is the main source of energy for Earth?
+A: Sun
+Q: Which is the highest waterfall in the world?
+A: Angel Falls
+Q: Who was the first woman Prime Minister of India?
+A: Indira Gandhi
+Q: Which organ helps in digestion?
+A: Stomach
+Q: What is the capital of Canada?
+A: Ottawa
+Q: Which is the largest peninsula in the world?
+A: Arabian Peninsula
+Q: What is the study of fossils called?
+A: Paleontology
+Q: Which country is famous for tulips?
+A: Netherlands
+Q: What is the capital of Mexico?
+A: Mexico City
+Q: Which is the coldest place on Earth?
+A: Antarctica
+Q: What is the national sport of Canada?
+A: Ice Hockey
+Q: Who is the father of computer science?
+A: Alan Turing
+Q: Which is the smallest country in the world?
+A: Vatican City
+Q: What is the capital of Egypt?
+A: Cairo
+Q: Which planet is called Blue Planet?
+A: Earth
+Q: What is the main language of Brazil?
+A: Portuguese
+Q: Who invented World Wide Web?
+A: Tim Berners-Lee
+Q: Which is the largest sea in the world?
+A: South China Sea
+Q: How many players are there in a cricket team?
+A: 11
+Q: Who is known as the God of Cricket?
+A: Sachin Tendulkar
+Q: Which country originated cricket?
+A: England
+Q: What is the highest individual score in ODI cricket?
+A: 264 (Rohit Sharma)
+Q: Who won the first Cricket World Cup (1975)?
+A: West Indies
+Q: How many overs are there in a T20 match per team?
+A: 20 overs
+Q: Who is known as Captain Cool?
+A: MS Dhoni
+Q: Which country won the 2011 Cricket World Cup?
+A: India
+Q: What is the full form of LBW?
+A: Leg Before Wicket
+Q: Who is the fastest bowler in cricket history (recorded speed)?
+A: Shoaib Akhtar
+Q: What is the shape of a cricket bat?
+A: Flat on one side, curved on the other
+Q: How many balls are there in one over?
+A: 6
+Q: Which stadium is known as the “Mecca of Cricket”?
+A: Lord’s Cricket Ground
+Q: Who scored the first double century in ODI cricket?
+A: Sachin Tendulkar
+Q: What is a hat-trick in cricket?
+A: Taking 3 wickets in 3 consecutive balls
+Q: Which country won the 2023 Cricket World Cup?
+A: Australia
+Q: Who is the current BCCI president (recent known)?
+A: Roger Binny
+Q: What is Duckworth-Lewis method used for?
+A: To calculate target in rain-affected matches
+Q: Which format of cricket is the longest?
+A: Test cricket
+Q: How many innings are there in a Test match?
+A: 4 innings
